@@ -1,0 +1,23 @@
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.Cache
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\alunno\Desktop\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Properties.Resources.resources
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\obj\Debug\Arkanoid.csproj.GenerateResource.Cache
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tanganelli\Desktop\Arkanoid\Arkanoid\Arkanoid\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Documents\Visual Studio 2015\Projects\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+F:\Documents\Visual Studio 2015\Projects\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+F:\Documents\Visual Studio 2015\Projects\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
